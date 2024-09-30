@@ -12,8 +12,8 @@ This script ranks your liked songs on Spotify by album and generates a CSV file 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/spotify-album-ranker.git
-    cd spotify-album-ranker
+    git clone https://github.com/nbone455/album-ranker.git
+    cd album-ranker
     ```
 
 2. **Install the required libraries:**
