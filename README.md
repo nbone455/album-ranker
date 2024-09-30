@@ -38,12 +38,12 @@ This script ranks your liked songs on Spotify by album and generates a CSV file 
     ```sh
     python fetch_liked_songs.py
     ```
+This might take a while but creates a liked songs cache that can be used for other things.
 
 6. **Run the album ranker script:**
     ```sh
     python spotify_album_ranker.py
     ```
-
 ## Output
 
 The script will generate a CSV file named `spotify_top_100_albums.csv` with the top 100 albums ranked by the percentage of liked tracks.
